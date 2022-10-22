@@ -4,8 +4,8 @@ I'm a wannabe videogames hacker and maker! ⚡⚡
 
 ## Currently working with:
  - Python 🐍
- - React&Redux
- - Unreal Engine
+ - React&Redux ⚛️
+ - Unreal Engine 🇺
 
 [![@gerardparareda's Holopin board](https://holopin.io/api/user/board?user=gerardparareda)](https://holopin.io/@gerardparareda)
 

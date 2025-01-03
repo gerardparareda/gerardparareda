@@ -1,8 +1,11 @@
 ### Hi! Welcome to my personal workspace
 
-⚡ I'm a videogames developer and linux hacker! ⚡
----
+🐧 I'm happy Linux user and software developer! 
 
+<picture>
+  <img alt="Github Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerardparareda&theme=gruvbox"> 
+</picture>
+<br>
 <picture>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </picture>
@@ -19,22 +22,6 @@
   <img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> 
 </picture>
 <br>
-<picture>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
-</picture>
-<picture>
-  <img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> 
-</picture>
-<br>
-<br>
-<picture>
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardparareda&theme=gruvbox"> 
-</picture>
-<picture>
-  <img alt="Github Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerardparareda&theme=gruvbox"> 
-</picture>
-<br>
-<br>
 
 ### Contact
 <picture>
@@ -42,17 +29,6 @@
 </picture>
 
 ---
-
-# 💾 Currently working with:
- ## Unity 3D
- Exciting new project with the Adhuc Digital games development team
- 
-<picture>
-  <img alt="Gisce" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-</picture>
-<picture>
-  <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-</picture>
 
  ## FullStack
  Pioneer ERP in the light marketing and distribution sector using all sorts of exiting software tools at ![GISCE TI S.L](https://gisce.net/).
@@ -95,30 +71,7 @@
   <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 </picture>
 
-<picture>
-  <img alt="Linkedin Profile Link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</picture>
-
 ---
-
-# 📼 Previous experience with
-
-## Unreal Engine with C++ and Blueprints
-Developed in conjunction with other awesome people:
-- <h4><img alt="Roguelight favicon" src="https://roguelight.net/resources/images/favicon.ico" width='25'> https://roguelight.net </h3>
-
-- ![Mycotic](https://rceci.itch.io/mycotic): https://github.com/rceci64/fungi
-
-<br>
-<picture>
-  <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
-</picture>
-<picture>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</picture>
-<picture>
-  <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-</picture>
 
 ## Other ❤️ videogames frameworks or programming languages that I enjoy
 <picture>
@@ -130,7 +83,15 @@ Developed in conjunction with other awesome people:
 <picture>
   <img alt="LUA" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </picture>
-
+<picture>
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
+</picture>
+<picture>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</picture>
+<picture>
+  <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+</picture>
 <!--
 **gerardparareda/gerardparareda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

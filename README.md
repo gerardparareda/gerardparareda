@@ -10,16 +10,10 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </picture>
 <picture>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
+  <img alt="Sway" src="https://img.shields.io/badge/sway-68751C?style=for-the-badge&logo=sway&logoColor=white"> 
 </picture>
 <picture>
-  <img alt="GNU+Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> 
-</picture>
-<picture>
-  <img alt="TMUX" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"> 
-</picture>
-<picture>
-  <img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> 
+  <img alt="Zen Browser" src="https://img.shields.io/badge/zen%20browser-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white"> 
 </picture>
 <br>
 
@@ -31,7 +25,7 @@
 ---
 
  ## FullStack
- Pioneer ERP in the light marketing and distribution sector using all sorts of exiting software tools at ![GISCE TI S.L](https://gisce.net/).
+ Pioneer ERP in the light marketing and distribution sector using all sorts of exciting software tools at ![GISCE TI S.L](https://gisce.net/).
 <br><br>
 <picture>
   <a href="https://github.com/gisce/"><img alt="Gisce" src="https://gisce.net/images/logo.png"></a>
@@ -41,31 +35,19 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </picture>
 <picture>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</picture>
-<picture>
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-</picture>
-<picture>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</picture>
-<picture>
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</picture>
+<picture>
+  <img alt="React" src="https://img.shields.io/badge/React-444950?style=for-the-badge&logo=react&logoColor=61DAFB">
 </picture>
 <picture>
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 </picture>
 <picture>
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="ViteJS" src="https://img.shields.io/badge/ViteJS-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
 </picture>
 <picture>
-  <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-</picture>
-<picture>
-  <img alt="ViteJS" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
-</picture>
-<picture>
-  <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+  <img alt="Material UI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 </picture>
 <picture>
   <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
@@ -78,16 +60,10 @@
   <img alt="Three JS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
 </picture>
 <picture>
-  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
-</picture>
-<picture>
   <img alt="LUA" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </picture>
 <picture>
-  <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
-</picture>
-<picture>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="Godot Engine" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
 </picture>
 <picture>
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">

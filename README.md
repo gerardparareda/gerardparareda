@@ -1,14 +1,6 @@
-## Hi! Welcome to my work Github profile
-
-### Contact
-<picture>
-  <a href="https://www.linkedin.com/in/gerard-parareda-gallifa/"><img alt="Linkedin Profile Link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</picture>
-
----
-
- ## FullStack
- Pioneer ERP in the light marketing and distribution sector using all sorts of exciting software tools at ![GISCE TI S.L](https://gisce.net/).
+Typescript wizard.
+<br><br>
+Currently working on a pioneer ERP in the light marketing and distribution sector using all sorts of exciting software tools at ![GISCE TI S.L](https://gisce.net/).
 <br><br>
 <picture>
   <a href="https://github.com/gisce/"><img alt="Gisce" src="https://gisce.net/images/logo.png"></a>
@@ -36,5 +28,9 @@
   <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 </picture>
 
-## About
+## About & Contact 
 I'm migrating to [codeberg/gerardpg](https://codeberg.org/gerardpg) as a personal initiative to keep the web open and free.
+
+<picture>
+  <a href="https://www.linkedin.com/in/gerard-parareda-gallifa/"><img alt="Linkedin Profile Link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</picture>
